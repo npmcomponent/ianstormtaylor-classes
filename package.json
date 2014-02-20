@@ -1,0 +1,15 @@
+{
+  "name": "ianstormtaylor-classes",
+  "description": "Quickly mixin class helper methods to a view.",
+  "version": "0.1.0",
+  "keywords": [
+    "classes",
+    "mixin",
+    "view",
+    "el"
+  ],
+  "dependencies": {
+    "jkroso-classes": "git://github.com/npmcomponent/jkroso-classes.git"
+  },
+  "license": "MIT"
+}
